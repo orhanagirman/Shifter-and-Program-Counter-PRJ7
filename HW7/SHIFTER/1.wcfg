@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/ALU/shifter/test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/test/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/sw" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sw</obj_property>
+      <obj_property name="ObjectShortName">sw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/rorl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rorl</obj_property>
+      <obj_property name="ObjectShortName">rorl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/inshift" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inshift[15:0]</obj_property>
+      <obj_property name="ObjectShortName">inshift[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/hmshift" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">hmshift</obj_property>
+      <obj_property name="ObjectShortName">hmshift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/hms" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">hms</obj_property>
+      <obj_property name="ObjectShortName">hms</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/sr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/outshift" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">outshift[15:0]</obj_property>
+      <obj_property name="ObjectShortName">outshift[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+</wave_config>

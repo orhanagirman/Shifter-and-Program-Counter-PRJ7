@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/homework7/program_counter/test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/test/disp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">disp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">disp[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/DB1/clk2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/br" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">br</obj_property>
+      <obj_property name="ObjectShortName">br</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/link" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">link</obj_property>
+      <obj_property name="ObjectShortName">link</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/jmp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">jmp</obj_property>
+      <obj_property name="ObjectShortName">jmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/DB1/wire_port" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wire_port</obj_property>
+      <obj_property name="ObjectShortName">wire_port</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/temp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">temp</obj_property>
+      <obj_property name="ObjectShortName">temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/rtn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rtn</obj_property>
+      <obj_property name="ObjectShortName">rtn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/DB1/counter" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">counter[1:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="group16" type="group">
+      <obj_property name="label">se</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/se1/rst" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">rst</obj_property>
+         <obj_property name="ObjectShortName">rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/se1/se_in" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">se_in[7:0]</obj_property>
+         <obj_property name="ObjectShortName">se_in[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/se1/se_jmp" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">se_jmp[15:0]</obj_property>
+         <obj_property name="ObjectShortName">se_jmp[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/se1/se_br" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">se_br[15:0]</obj_property>
+         <obj_property name="ObjectShortName">se_br[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/se1/msb" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">msb</obj_property>
+         <obj_property name="ObjectShortName">msb</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/se1/sr_jmp" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">sr_jmp[15:0]</obj_property>
+         <obj_property name="ObjectShortName">sr_jmp[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/se1/sr_br" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">sr_br[15:0]</obj_property>
+         <obj_property name="ObjectShortName">sr_br[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group27" type="group">
+      <obj_property name="label">mx3</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/mx3/rst" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">rst</obj_property>
+         <obj_property name="ObjectShortName">rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx3/mux_in_a" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_in_a[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mux_in_a[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx3/mux_in_b" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_in_b[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mux_in_b[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx3/mux_sel" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_sel</obj_property>
+         <obj_property name="ObjectShortName">mux_sel</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx3/output" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">output[15:0]</obj_property>
+         <obj_property name="ObjectShortName">output[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx3/wire" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">wire[15:0]</obj_property>
+         <obj_property name="ObjectShortName">wire[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group34" type="group">
+      <obj_property name="label">mx2</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/mx2/rst" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">rst</obj_property>
+         <obj_property name="ObjectShortName">rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx2/mux_in_a" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_in_a[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mux_in_a[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx2/mux_in_b" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_in_b[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mux_in_b[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx2/mux_sel" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_sel</obj_property>
+         <obj_property name="ObjectShortName">mux_sel</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx2/output" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">output[15:0]</obj_property>
+         <obj_property name="ObjectShortName">output[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx2/wire" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">wire[15:0]</obj_property>
+         <obj_property name="ObjectShortName">wire[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group41" type="group">
+      <obj_property name="label">mx1</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/mx1/rst" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">rst</obj_property>
+         <obj_property name="ObjectShortName">rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx1/mux_in_a" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_in_a[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mux_in_a[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx1/mux_in_b" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_in_b[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mux_in_b[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx1/mux_sel" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">mux_sel</obj_property>
+         <obj_property name="ObjectShortName">mux_sel</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx1/output" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">output[15:0]</obj_property>
+         <obj_property name="ObjectShortName">output[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/mx1/wire" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">wire[15:0]</obj_property>
+         <obj_property name="ObjectShortName">wire[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group48" type="group">
+      <obj_property name="label">fam</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/fam/x" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">x[15:0]</obj_property>
+         <obj_property name="ObjectShortName">x[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/fam/y" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">y[15:0]</obj_property>
+         <obj_property name="ObjectShortName">y[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/fam/s_out" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">s_out[15:0]</obj_property>
+         <obj_property name="ObjectShortName">s_out[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/fam/z" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">z</obj_property>
+         <obj_property name="ObjectShortName">z</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/fam/s_port" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">s_port[15:0]</obj_property>
+         <obj_property name="ObjectShortName">s_port[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/fam/c_port" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">c_port[15:0]</obj_property>
+         <obj_property name="ObjectShortName">c_port[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="group57" type="group">
+         <obj_property name="label">fa</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject fp_name="/test/uut/fam/fa/a" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">a</obj_property>
+            <obj_property name="ObjectShortName">a</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/b" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">b</obj_property>
+            <obj_property name="ObjectShortName">b</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/cin" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">cin</obj_property>
+            <obj_property name="ObjectShortName">cin</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/cout" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">cout</obj_property>
+            <obj_property name="ObjectShortName">cout</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/s" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">s</obj_property>
+            <obj_property name="ObjectShortName">s</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/wire1" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">wire1</obj_property>
+            <obj_property name="ObjectShortName">wire1</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/wire2" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">wire2</obj_property>
+            <obj_property name="ObjectShortName">wire2</obj_property>
+         </wvobject>
+         <wvobject fp_name="/test/uut/fam/fa/wire3" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">wire3</obj_property>
+            <obj_property name="ObjectShortName">wire3</obj_property>
+         </wvobject>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group63" type="group">
+      <obj_property name="label">rg1</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/rg1/clk" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">clk</obj_property>
+         <obj_property name="ObjectShortName">clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg1/rst" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">rst</obj_property>
+         <obj_property name="ObjectShortName">rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg1/en" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">en</obj_property>
+         <obj_property name="ObjectShortName">en</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg1/d" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">d[15:0]</obj_property>
+         <obj_property name="ObjectShortName">d[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg1/q" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">q[15:0]</obj_property>
+         <obj_property name="ObjectShortName">q[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group69" type="group">
+      <obj_property name="label">rg2</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/test/uut/rg2/clk" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">clk</obj_property>
+         <obj_property name="ObjectShortName">clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg2/rst" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">rst</obj_property>
+         <obj_property name="ObjectShortName">rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg2/en" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">en</obj_property>
+         <obj_property name="ObjectShortName">en</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg2/d" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">d[15:0]</obj_property>
+         <obj_property name="ObjectShortName">d[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test/uut/rg2/q" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">q[15:0]</obj_property>
+         <obj_property name="ObjectShortName">q[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,6 @@
+attribute LOC : string;
+attribute LOC of CLK: signal is "AH15";
+attribute LOC of LCD_DB: signal is "T11 G6 G7 T9";
+attribute LOC of LCD_E: signal is "AC9";
+attribute LOC of LCD_RS: signal is "J17";
+attribute LOC of LCD_RW: signal is "AC10";

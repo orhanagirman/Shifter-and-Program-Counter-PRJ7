@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/homework7/program_counter/test1_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/test1/disp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">disp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">disp[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/br" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">br</obj_property>
+      <obj_property name="ObjectShortName">br</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/jal" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">jal</obj_property>
+      <obj_property name="ObjectShortName">jal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/jmp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">jmp</obj_property>
+      <obj_property name="ObjectShortName">jmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/rtn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rtn</obj_property>
+      <obj_property name="ObjectShortName">rtn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/s_port" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">s_port[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s_port[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/DB1/clk2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/temp1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">temp1</obj_property>
+      <obj_property name="ObjectShortName">temp1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/temp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">temp2</obj_property>
+      <obj_property name="ObjectShortName">temp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/temp3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">temp3</obj_property>
+      <obj_property name="ObjectShortName">temp3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/temp4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">temp4</obj_property>
+      <obj_property name="ObjectShortName">temp4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/tempx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tempx</obj_property>
+      <obj_property name="ObjectShortName">tempx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/rg2/q" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">q[15:0]</obj_property>
+      <obj_property name="ObjectShortName">q[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/DB1/wire_port" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wire_port</obj_property>
+      <obj_property name="ObjectShortName">wire_port</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/DB1/tmp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tmp</obj_property>
+      <obj_property name="ObjectShortName">tmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/DB1/counter" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">counter[1:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[1:0]</obj_property>
+   </wvobject>
+</wave_config>

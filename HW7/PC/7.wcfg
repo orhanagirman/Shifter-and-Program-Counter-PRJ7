@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/homework7/program_counter/test2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test2" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/test2/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/disp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">disp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">disp[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/br" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">br</obj_property>
+      <obj_property name="ObjectShortName">br</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/jal" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">jal</obj_property>
+      <obj_property name="ObjectShortName">jal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/jmp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">jmp</obj_property>
+      <obj_property name="ObjectShortName">jmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/rtn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rtn</obj_property>
+      <obj_property name="ObjectShortName">rtn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/uut/fa_in1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fa_in1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">fa_in1[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/uut/mx1_in2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mx1_in2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mx1_in2[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/seven_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">seven_out[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seven_out[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/en_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">en_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">en_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+</wave_config>
